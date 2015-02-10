@@ -1,0 +1,13 @@
+Sl.No,User,pre_boundary_created,pre_boundary_mod,pre_boundary_del,primary_boundary_created,primary_boundary_mod,primary_boundary_del,pre_sch_created,pre_sch_mod,pre_sch_del,primary_sch_created,primary_sch_mod,primary_sch_del,pre_stud_created,pre_stud_mod,pre_stud_del,primary_stud_created,primary_stud_mod,primary_stud_del,pre_teacher_created,pre_teacher_mod,pre_teacher_del,primary_teacher_created,primary_teacher_mod,primary_teacher_del,Assess Id,Akshara Ganita-Class 2 Pretest Num Of correct Entries,Akshara Ganita-Class 2 Pretest Num Of incorrect Entries,Akshara Ganita-Class 2 Pretest Num Of verified Entries,Akshara Ganita-Class 2 Pretest Num Of rectified Entries,Assess Id,Akshara Ganita-Class 3 Pretest Num Of correct Entries,Akshara Ganita-Class 3 Pretest Num Of incorrect Entries,Akshara Ganita-Class 3 Pretest Num Of verified Entries,Akshara Ganita-Class 3 Pretest Num Of rectified Entries,Assess Id,Akshara Ganita-Class 4 Pretest Num Of correct Entries,Akshara Ganita-Class 4 Pretest Num Of incorrect Entries,Akshara Ganita-Class 4 Pretest Num Of verified Entries,Akshara Ganita-Class 4 Pretest Num Of rectified Entries,Assess Id,Akshara Ganita-Class 5 Pretest Num Of correct Entries,Akshara Ganita-Class 5 Pretest Num Of incorrect Entries,Akshara Ganita-Class 5 Pretest Num Of verified Entries,Akshara Ganita-Class 5 Pretest Num Of rectified Entries
+1,ak10kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,359,31,185,0,0,355,305,186,0,0,0,0
+2,ak1kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,51,81,186,0,0,28,62
+3,ak3kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,537,21,184,0,0,1559,235,185,33,0,1249,38,186,0,0,1020,0
+4,ak4kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,1191,33,184,0,0,3165,121,185,0,0,1799,124,186,30,0,2131,167
+5,ak6kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,734,58,184,0,0,1912,149,185,0,0,1806,126,186,0,0,1216,99
+6,ak7kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,183,36,0,1179,9,184,78,39,2818,68,185,99,1,2838,102,186,30,0,2216,4
+7,ak8kop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,1114,200,184,0,0,2103,703,185,133,81,2165,442,186,30,30,1096,366
+8,gayathri,0,0,0,0,0,0,0,0,0,0,0,0,265,265,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,0,0,186,0,0,0,0
+9,mohsina,0,0,0,0,0,0,0,0,0,0,0,0,711,711,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,0,0,186,0,0,0,0
+10,munirathna,0,0,0,0,0,0,3,0,0,0,0,0,599,599,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,0,0,186,0,0,0,0
+11,nalini,0,0,0,0,0,0,0,0,0,0,0,0,413,413,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,0,0,186,0,0,0,0
+12,roopa,0,0,0,0,0,0,0,0,0,0,0,0,446,446,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,184,0,0,0,0,185,0,0,0,0,186,0,0,0,0

@@ -1,0 +1,18 @@
+Sl.No,User,pre_boundary_created,pre_boundary_mod,pre_boundary_del,primary_boundary_created,primary_boundary_mod,primary_boundary_del,pre_sch_created,pre_sch_mod,pre_sch_del,primary_sch_created,primary_sch_mod,primary_sch_del,pre_stud_created,pre_stud_mod,pre_stud_del,primary_stud_created,primary_stud_mod,primary_stud_del,pre_teacher_created,pre_teacher_mod,pre_teacher_del,primary_teacher_created,primary_teacher_mod,primary_teacher_del,Assess Id,Anganwadi-Pretest (2.5-4.5) Num Of correct Entries,Anganwadi-Pretest (2.5-4.5) Num Of incorrect Entries,Anganwadi-Pretest (2.5-4.5) Num Of verified Entries,Anganwadi-Pretest (2.5-4.5) Num Of rectified Entries,Assess Id,Anganwadi-Posttest_(2.5-4.5) Num Of correct Entries,Anganwadi-Posttest_(2.5-4.5) Num Of incorrect Entries,Anganwadi-Posttest_(2.5-4.5) Num Of verified Entries,Anganwadi-Posttest_(2.5-4.5) Num Of rectified Entries,Assess Id,Anganwadi-Posttest_(4.5-above) Num Of correct Entries,Anganwadi-Posttest_(4.5-above) Num Of incorrect Entries,Anganwadi-Posttest_(4.5-above) Num Of verified Entries,Anganwadi-Posttest_(4.5-above) Num Of rectified Entries,Assess Id,Anganwadi-Indicator-Bangalore Anganwadi-Indicator Num Of correct Entries,Anganwadi-Indicator-Bangalore Anganwadi-Indicator Num Of incorrect Entries,Anganwadi-Indicator-Bangalore Anganwadi-Indicator Num Of verified Entries,Anganwadi-Indicator-Bangalore Anganwadi-Indicator Num Of rectified Entries
+1,ak15dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,0,0,0,218,0,0,0,0,219,0,0,0,0,202,0,0,0,0
+2,ak1dwd,0,0,0,0,0,0,0,0,0,1,3,2,460,54,323,1829,5,291,0,1,0,0,0,0,190,0,0,0,0,218,22,0,2556,18,219,0,0,2943,27,202,0,0,0,0
+3,ak1gdg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,190,0,0,0,0,218,0,0,0,0,219,0,0,0,0,202,0,0,0,0
+4,ak2dwd,0,0,0,0,0,0,0,0,0,0,2,0,334,46,20,3439,0,160,1,0,0,0,0,0,190,0,0,0,0,218,0,0,0,0,219,0,0,0,0,202,0,0,0,0
+5,ak3dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7462,94,849,0,0,0,0,0,0,190,0,0,0,0,218,9813,158,3064,38,219,9571,92,2303,7,202,0,0,0,0
+6,ak4dwd,0,0,0,0,0,0,0,0,0,0,0,0,17,2,9,9238,172,1886,0,0,0,0,0,0,190,0,0,0,0,218,4181,33,4730,22,219,4590,32,4502,30,202,0,0,0,0
+7,ak5dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6459,26,483,0,0,0,0,0,0,190,0,0,0,0,218,3190,18,0,0,219,3392,27,0,0,202,0,0,0,0
+8,ak6dwd,0,0,0,0,0,0,0,0,0,0,2,0,11,0,10,9108,283,1769,0,0,0,0,0,0,190,44,0,0,0,218,9592,22,3509,33,219,9690,30,3418,32,202,0,0,0,0
+9,ak7dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9265,0,774,0,0,0,0,0,0,190,0,0,0,0,218,6956,38,2878,36,219,5942,7,3508,30,202,0,0,0,0
+10,ak8dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1544,0,0,0,0,0,0,0,0,190,0,0,0,0,218,7827,36,6553,158,219,7961,30,6505,92,202,0,0,0,0
+11,ak9dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,0,0,0,0,0,190,0,0,0,0,218,0,0,0,0,219,0,0,0,0,202,0,0,0,0
+12,gayathri,0,0,0,0,0,0,1,3,0,0,0,0,1289,13,1159,4703,36,3399,0,0,0,291,2,4,190,0,0,0,0,218,27612,232,6358,46,219,16650,114,5358,42,202,2030,52,1358,1
+13,mohsina,0,0,0,0,0,0,4,0,0,0,1,0,2286,51,1602,6142,127,4108,0,0,0,183,8,1,190,0,0,0,0,218,26411,0,10644,26,219,11342,12,6996,15,202,981,42,1466,74
+14,munirathna,0,0,0,0,0,0,0,1,0,0,0,0,2022,38,1133,4343,50,2891,0,0,0,250,2,0,190,0,0,0,0,218,20439,256,17375,232,219,17222,52,8346,144,202,980,10,1978,52
+15,nalini,0,0,0,0,0,0,0,0,0,0,0,0,2006,55,2297,3108,158,4793,0,0,0,36,0,0,190,0,0,0,0,218,20574,46,7611,245,219,15992,54,6326,34,202,1260,1,970,10
+16,roopa,0,0,0,0,0,0,3,2,0,0,0,0,1237,151,983,4327,156,2878,0,0,0,195,3,0,190,0,0,0,0,218,22880,15,2860,0,219,14880,15,1788,12,202,1680,74,868,42
+17,sunitha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,0,0,0,218,0,0,0,0,219,0,0,0,0,202,0,0,0,0

@@ -1,0 +1,10 @@
+Sl.No,User,pre_boundary_created,pre_boundary_mod,pre_boundary_del,primary_boundary_created,primary_boundary_mod,primary_boundary_del,pre_sch_created,pre_sch_mod,pre_sch_del,primary_sch_created,primary_sch_mod,primary_sch_del,pre_stud_created,pre_stud_mod,pre_stud_del,primary_stud_created,primary_stud_mod,primary_stud_del,pre_teacher_created,pre_teacher_mod,pre_teacher_del,primary_teacher_created,primary_teacher_mod,primary_teacher_del,Assess Id,Anganwadi-Posttest_(2.5-4.5) Num Of correct Entries,Anganwadi-Posttest_(2.5-4.5) Num Of incorrect Entries,Anganwadi-Posttest_(2.5-4.5) Num Of verified Entries,Anganwadi-Posttest_(2.5-4.5) Num Of rectified Entries
+1,ak1dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,16,0,0,0,0,0,0,218,0,0,0,0
+2,ak3dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,471,4,1,0,0,0,0,0,0,218,0,0,0,0
+3,ak4dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,66,55,0,0,0,0,0,0,218,0,0,0,0
+4,ak6dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,603,19,34,0,0,0,0,0,0,218,0,0,0,0
+5,ak9dwd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,2,1,0,0,0,0,0,0,218,0,0,0,0
+6,gayathri,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,218,220,1,0,0
+7,mohsina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,218,0,0,0,0
+8,munirathna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3,0,0,0,0,0,0,218,0,0,0,0
+9,roopa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,46,2,0,0,0,0,0,0,218,0,0,219,1
